@@ -33,3 +33,6 @@ What are the top three brands with the highest average list price? The top three
 Predict CO2 Emissions using Machine Learning model.
 
 Any other insights you found during your analysis?
+
+
+In conclusion, this projects goes from Data Cleaning to Exploratory Data Analysis to Data Preprocessing and Machine Learning
