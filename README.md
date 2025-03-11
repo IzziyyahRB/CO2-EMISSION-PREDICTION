@@ -1,5 +1,5 @@
 # CO2 EMISSION PREDICTION
-This repository contains Data Science projects that include Exploratory Data Analysis, Data Cleaning and Building Machine Learning models
+This repository contains a CO2 Emission Prediction project that include Exploratory Data Analysis, Data Cleaning and Building Machine Learning model for prediction.
 
 PROJECT 1: DATA CAMP CO2 EMISSION MACHINE LEARNING PROJECT
 
