@@ -1,4 +1,4 @@
-# PYTHON DATA-PROJECTS
+# CO2 EMISSION PREDICTION
 This repository contains Data Science projects that include Exploratory Data Analysis, Data Cleaning and Building Machine Learning models
 
 PROJECT 1: DATA CAMP CO2 EMISSION MACHINE LEARNING PROJECT
